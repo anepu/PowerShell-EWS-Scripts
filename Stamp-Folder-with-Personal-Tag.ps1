@@ -1,5 +1,5 @@
 ﻿#
-# Stamp-Folder-with-Personal-Tag
+# Stamp-Folder-with-Personal-Tag.ps1
 #
 # By Andrei Epure. Use at your own risk.  No warranties are given.
 # The script will impersonate a specific mailbox, will target a User Created folder and will stamp a Personal Retention tag on that folder and all of its subfolders
